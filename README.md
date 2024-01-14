@@ -21,3 +21,9 @@ https://gitlab.com/ricardoquesada/bluepad32/-/blob/main/docs/supported_keyboards
 
 # Compatibilità con Arduino (NINA)
 https://gitlab.com/ricardoquesada/bluepad32-arduino
+
+# Istruzioni
+1) Installare la libreria LVGL dal gestore librerie di Arduino IDE
+2) Configurare LVGL, basta che mettete all'interno della cartella libraries di Arduino il file lv_conf.h che trovate qui su GitHub
+3) Seguire il video alla parte "Installazione schede" (Minuto 00:44)
+4) Caricare il codice su M5Stack
