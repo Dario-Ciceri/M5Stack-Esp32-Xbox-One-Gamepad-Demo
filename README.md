@@ -4,6 +4,9 @@ https://gitlab.com/ricardoquesada/bluepad32/-/tree/main
 # Video dedicato
 https://youtu.be/7V1o8qgnVkE
 
+# URL aggiuntiva per il gestore schede
+https://raw.githubusercontent.com/ricardoquesada/esp32-arduino-lib-builder/master/bluepad32_files/package_esp32_bluepad32_index.json
+
 # Icone usate
 https://arks.itch.io/xbox-buttons
 
